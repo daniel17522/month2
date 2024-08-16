@@ -1,3 +1,14 @@
 git config --global user.email "daniel312123312@gmail.com"
 git config --global user.name "daniel17522"
- git rm --cached -r namefile : стирает один файл
+git rm --cached -r namefile : стирает один файл
+
+
+
+
+
+
+
+
+
+
+
