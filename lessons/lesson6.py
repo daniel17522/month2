@@ -3,7 +3,7 @@
 
 
 from lesson2 import Book
-
+bakyt=Book['человек']
 
 
 
